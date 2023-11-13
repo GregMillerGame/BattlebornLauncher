@@ -7,4 +7,6 @@ Steps to use:
 - Select Map and Character
 - Hit Play!
 
-![Alt text](https://github.com/GregMillerGame/BattlebornLauncher/blob/main/Screenshot/Screenshot.png)
+
+## Screenshots
+![Tool Screenshot](https://github.com/GregMillerGame/BattlebornLauncher/blob/main/Screenshot/Screenshot.png)
