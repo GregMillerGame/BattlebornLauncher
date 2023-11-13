@@ -7,4 +7,4 @@ Steps to use:
 - Select Map and Character
 - Hit Play!
 
-![Alt text](https://github.com/GregMillerGame/BattlebornLauncher/blob/main/Screenshot/Screenshot.png "Optional title")
+![Alt text](https://github.com/GregMillerGame/BattlebornLauncher/blob/main/Screenshot/Screenshot.png)
